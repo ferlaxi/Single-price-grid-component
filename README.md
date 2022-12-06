@@ -9,4 +9,4 @@ This is a solution to the [Single price grid component challenge on Frontend Men
 
 ## Links
 - Frontend Mentor - [@ferlaxi](https://www.frontendmentor.io/profile/ferlaxi)
-- Live Site URL: [Single price grid component]()🌐
+- Live Site URL: [Single price grid component](https://ferlaxi.github.io/Single-price-grid-component/)🌐
